@@ -1,0 +1,219 @@
+@import url(http://fonts.googleapis.com/css?family=Playball|Lobster+Two:400italic);
+body {
+  font-family: serif; }
+
+.ladolor {
+  text-align: center;
+  font-family: serif;
+  font-size: 5rem;
+  letter-spacing: 1rem; }
+
+.navbar-nav {
+  margin-left: 20%;
+  text-align: center; }
+
+.navbar-nav > li > a {
+  color: #404749;
+  text-transform: uppercase; }
+
+.jumbotron h2, .jumbotron .h2 {
+  text-align: center;
+  margin-top: 15%; }
+
+.jumbotron p {
+  text-align: center; }
+
+.first-jb {
+  background-image: url(https://ununsplash.imgix.net/36/X7L5hgFXQZazzPaK3goC_14084990857_88cabf3b6d_o.jpg?q=75&fm=jpg&s=d8812b80a08b8a04f4cf538f69a13b37);
+  background-position: center center;
+  background-size: cover;
+  height: 500px;
+  color: white;
+  font-family: serif; }
+
+.starter-template {
+  text-align: center;
+  padding: 40px 15px; }
+
+.image img {
+  width: 100%; }
+
+.img-quote {
+  text-align: center; }
+
+.view-lookbook-btn {
+  text-align: center;
+  margin: 100px auto 100px auto; }
+
+.view-btn {
+  text-decoration: none;
+  color: black;
+  font-size: 1.8rem;
+  text-transform: uppercase; }
+
+a:hover, a:focus {
+  color: black;
+  text-decoration: none; }
+
+.article-title, .article-summary, .breadcrumb {
+  text-align: center; }
+
+.media-left img {
+  width: 40px;
+  height: 60px; }
+
+.gallery-photo img {
+  width: 80px;
+  height: 80px; }
+
+.quote {
+  background-image: url(https://unsplash.imgix.net/43/unsplash_522b9cc0386f1_1.jpg?q=75&fm=jpg&s=e322212bc2a1f5be8ad1b95947bd0929);
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  height: 600px; }
+
+.list-inline > li {
+  padding: 2px 0; }
+
+.quote2 {
+  background-image: url(https://ununsplash.imgix.net/46/dpzDUkJrTHb71Yla1EzF_IMG_4098.jpg?q=75&fm=jpg&s=f7574a1fa33963ccae0c15a93574b71a);
+  background-size: cover;
+  background-position: center center;
+  height: 600px; }
+
+.jumbotron-quote, .quote-by {
+  text-align: center;
+  color: white;
+  text-transform: capitalize;
+  font-family: serif; }
+
+.jumbotron p:first-child {
+  margin-top: 15%;
+  font-size: 52px; }
+
+.articles-img img {
+  width: 100%; }
+
+.woman-img {
+  height: 739px; }
+
+@media (max-width: 760px) {
+  .woman-img {
+    width: 100%;
+    height: 739px; } }
+.man-img {
+  width: 100%; }
+
+.lead {
+  color: #5E666C;
+  margin-bottom: 80px; }
+
+.btn-shop {
+  color: white;
+  background: #000;
+  padding: 8px 60px;
+  text-decoration: none; }
+
+.btn-shop:hover {
+  color: white; }
+
+.breadcrumb {
+  background-color: white; }
+
+.price, .img-quote {
+  color: #5E666C; }
+
+.breadcrumb > li, .article-summary {
+  color: #989899; }
+
+.article-summary {
+  font-size: 1.3rem;
+  font-family: sans-serif;
+  letter-spacing: .1rem; }
+
+.breadcrumb a {
+  color: black;
+  text-decoration: none; }
+
+.bredcrumb a:hover {
+  color: black;
+  text-decoration: none; }
+
+.article-title {
+  font-size: 2.3rem; }
+
+.col-article {
+  margin-bottom: 40px; }
+
+.brand-summary, address, .media-price {
+  color: #989899; }
+
+.fa {
+  color: #5E666C; }
+
+.main-brand {
+  margin-bottom: 20px; }
+
+.media {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #E0E0DC;
+  padding-bottom: 10px; }
+
+.brand-summary {
+  margin-bottom: 80px; }
+
+.featured-products, .instagram {
+  text-transform: uppercase;
+  font-size: 1.4rem;
+  margin: 35px auto 35px;
+  font-family: sans-serif; }
+
+.other-info {
+  margin: 50px auto 50px; }
+
+.about {
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-size: 1.3rem;
+  letter-spacing: .1rem;
+  margin: 42px auto 42px auto; }
+
+.list-unstyled-item {
+  color: #333333;
+  font-family: sans-serif; }
+
+.list-li {
+  margin: auto auto 8px auto; }
+
+.footer {
+  background-color: #EDECEF;
+  padding: 0 0 50px 85px; }
+
+.cright {
+  background-color: #EDECEF; }
+
+.copyright p {
+  text-align: center; }
+
+.copyr {
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D8D8DB; }
+
+.img-title {
+  font-family: sans-serif;
+  font-size: 1.3rem;
+  color: #404749;
+  text-transform: uppercase;
+  margin-top: 20px; }
+
+.img-quote {
+  font-size: 2rem;
+  margin: 82px auto 82px; }
+
+.brand-img {
+  width: 100%; }
+
+/*# sourceMappingURL=main.css.map */
